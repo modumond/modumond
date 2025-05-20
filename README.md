@@ -2,7 +2,8 @@
 
 ### Projects I have worked on:
 
-##### GastronoQuest
+#### GastronoQuest
 
 [Frontend repo](https://github.com/lturjman/gastronoquest-front)
+
 [Backend repo](https://github.com/lturjman/gastronoquest-back)
