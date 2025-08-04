@@ -9,7 +9,7 @@
 - **Deployment & Version Control:** Vercel, Git, GitHub
 - **Methodologies and Practices:** Agile SCRUM, Test-Driven Development (TDD), SEO
 
-**_Currently learning:_** Python, C++
+**_Currently deepening my knowledge of:_** Python, C++
 
 ### Projects I have worked on:
 
