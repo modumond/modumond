@@ -8,7 +8,8 @@
 - **Mobile Development:** React Native, Expo
 - **Databases:** MongoDB with Mongoose, PostgreSQL, SQL
 - **Deployment & Version Control:** Vercel, Git, GitHub, GitLab
-- **Methodologies and Practices:** Agile SCRUM, Test-Driven Development (TDD), SEO
+- **Methodologies and Practices:** Agile SCRUM, Kanban, Test-Driven Development (TDD), SEO
+- **Tools:** Visual Studio Code, Figma, Trello, Notion, Stack
 
 ### Other projects I have worked on:
 
