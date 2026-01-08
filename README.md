@@ -2,16 +2,15 @@
 
 ### Skills
 
-- **Front-End Development:** HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Redux
+- **Programming Languages:** JavaScript, TypeScript, C++, Python
+- **Front-End Development:** HTML5, CSS3, React, Next.js, Redux
 - **Back-End Development:** Node.js, Express.js
 - **Mobile Development:** React Native, Expo
 - **Databases:** MongoDB with Mongoose, PostgreSQL, SQL
-- **Deployment & Version Control:** Vercel, Git, GitHub
+- **Deployment & Version Control:** Vercel, Git, GitHub, GitLab
 - **Methodologies and Practices:** Agile SCRUM, Test-Driven Development (TDD), SEO
 
-**_Currently deepening my knowledge of:_** Python, C++
-
-### Projects I have worked on:
+### Other projects I have worked on:
 
 #### GastronoQuest
 
